@@ -181,4 +181,4 @@ from it.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+See [LICENSE](LICENSE) and [NOTICE](NOTICE). Created by LDKTC.
