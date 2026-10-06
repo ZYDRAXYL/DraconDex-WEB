@@ -24,7 +24,7 @@ window.DDStrings = {
   "common.footer.apprepo": "Repository ของแอป",
   "common.footer.issues": "แจ้งปัญหา",
   "common.footer.websitesource": "ซอร์สโค้ดเว็บไซต์นี้",
-  "common.footer.built": "สร้างโดย ZYDRAXYL · สัญญาอนุญาต MIT",
+  "common.footer.built": "สร้างโดย ZYDRAXYL · Created by LDKTC · สัญญาอนุญาต MIT",
   "common.footer.disclaimer": "ไม่มีส่วนเกี่ยวข้องกับผู้ให้บริการ AI ที่ปลั๊กอินเชื่อมต่อด้วย",
 
   "common.lightbox.aria": "ตัวแสดงภาพหน้าจอ",
