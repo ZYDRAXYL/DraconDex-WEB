@@ -34,13 +34,13 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2026-10-26T09:54:25Z",
-    "updated_at": "2026-10-26T09:55:11Z",
+    "updated_at": "2026-10-26T09:55:47Z",
     "published_at": "2026-10-26T09:55:11Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677727189",
-        "id": 677727189,
-        "node_id": "RA_kwDOT0DQEM4oZUvV",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677728687",
+        "id": 677728687,
+        "node_id": "RA_kwDOT0DQEM4oZVGv",
         "name": "checksums-sha256.txt",
         "label": "",
         "uploader": {
@@ -69,14 +69,14 @@
         "size": 284,
         "digest": "sha256:eaa03fa194ae81bdd37a29059b7afd5954b22d675bc3a5bcf2e49c9d761e011c",
         "download_count": 0,
-        "created_at": "2026-10-26T09:55:05Z",
-        "updated_at": "2026-10-26T09:55:05Z",
+        "created_at": "2026-10-26T09:55:43Z",
+        "updated_at": "2026-10-26T09:55:43Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/checksums-sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677727190",
-        "id": 677727190,
-        "node_id": "RA_kwDOT0DQEM4oZUvW",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677728686",
+        "id": 677728686,
+        "node_id": "RA_kwDOT0DQEM4oZVGu",
         "name": "DraconDex-5.3.0-win-x64.zip",
         "label": "",
         "uploader": {
@@ -105,14 +105,14 @@
         "size": 137618901,
         "digest": "sha256:39c4d38427a8500c159461b7a8b2d4f08b20e977c6af90e7c168d601638b042e",
         "download_count": 0,
-        "created_at": "2026-10-26T09:55:05Z",
-        "updated_at": "2026-10-26T09:55:10Z",
+        "created_at": "2026-10-26T09:55:43Z",
+        "updated_at": "2026-10-26T09:55:47Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-5.3.0-win-x64.zip"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677727188",
-        "id": 677727188,
-        "node_id": "RA_kwDOT0DQEM4oZUvU",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677728692",
+        "id": 677728692,
+        "node_id": "RA_kwDOT0DQEM4oZVG0",
         "name": "DraconDex-Portable-5.3.0.exe",
         "label": "",
         "uploader": {
@@ -141,14 +141,14 @@
         "size": 88408536,
         "digest": "sha256:6e5fe18c0b7c8a4180315e00ad0fa12946cbf539b9480e30adc7e93c78dd4765",
         "download_count": 0,
-        "created_at": "2026-10-26T09:55:05Z",
-        "updated_at": "2026-10-26T09:55:08Z",
+        "created_at": "2026-10-26T09:55:43Z",
+        "updated_at": "2026-10-26T09:55:46Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-Portable-5.3.0.exe"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677727191",
-        "id": 677727191,
-        "node_id": "RA_kwDOT0DQEM4oZUvX",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/677728688",
+        "id": 677728688,
+        "node_id": "RA_kwDOT0DQEM4oZVGw",
         "name": "DraconDex-Setup-5.3.0.exe",
         "label": "",
         "uploader": {
@@ -177,8 +177,8 @@
         "size": 98096078,
         "digest": "sha256:197bb78a46b0c27c16e50ea378cdbeaf0573ddc1aef77828daedd1691d461568",
         "download_count": 0,
-        "created_at": "2026-10-26T09:55:05Z",
-        "updated_at": "2026-10-26T09:55:09Z",
+        "created_at": "2026-10-26T09:55:43Z",
+        "updated_at": "2026-10-26T09:55:46Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-Setup-5.3.0.exe"
       }
     ],
