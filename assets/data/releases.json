@@ -1,10 +1,10 @@
 [
   {
-    "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721",
-    "assets_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721/assets",
-    "upload_url": "https://uploads.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721/assets{?name,label}",
-    "html_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/tag/flutter-v3.6.1",
-    "id": 429889721,
+    "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429903520",
+    "assets_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429903520/assets",
+    "upload_url": "https://uploads.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429903520/assets{?name,label}",
+    "html_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/tag/v5.6.0",
+    "id": 429903520,
     "author": {
       "login": "LDKTC",
       "id": 232616950,
@@ -26,21 +26,21 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOT0DQEM4Zn5i5",
-    "tag_name": "flutter-v3.6.1",
+    "node_id": "RE_kwDOT0DQEM4Zn86g",
+    "tag_name": "v5.6.0",
     "target_commitish": "main",
-    "name": "DraconDex APK 3.6.1",
+    "name": "DraconDex 5.6.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-10-28T18:34:03Z",
-    "updated_at": "2026-10-31T11:19:57Z",
-    "published_at": "2026-10-31T11:19:57Z",
+    "created_at": "2026-10-31T11:19:58Z",
+    "updated_at": "2026-10-31T11:50:00Z",
+    "published_at": "2026-10-31T11:50:00Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183503",
-        "id": 695183503,
-        "node_id": "RA_kwDOT0DQEM4pb6iP",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247537",
+        "id": 695247537,
+        "node_id": "RA_kwDOT0DQEM4pcKKx",
         "name": "checksums-sha256.txt",
         "label": "",
         "uploader": {
@@ -66,17 +66,17 @@
         },
         "content_type": "text/plain; charset=utf-8",
         "state": "uploaded",
-        "size": 405,
-        "digest": "sha256:940a1a3f6a989b6780e3ea8cd41cc4ec5f1ed912749ee6abb1c2ca628748c308",
+        "size": 464,
+        "digest": "sha256:3a7e99dc3b5e21f0adf0e8d9cdc597d315ab3411196a6159234f43d2d41d66ad",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:54Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/checksums-sha256.txt"
+        "created_at": "2026-10-31T11:49:55Z",
+        "updated_at": "2026-10-31T11:49:55Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/checksums-sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183505",
-        "id": 695183505,
-        "node_id": "RA_kwDOT0DQEM4pb6iR",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247521",
+        "id": 695247521,
+        "node_id": "RA_kwDOT0DQEM4pcKKh",
         "name": "checksums-sha256.txt.sig",
         "label": "",
         "uploader": {
@@ -103,17 +103,17 @@
         "content_type": "application/pgp-signature",
         "state": "uploaded",
         "size": 89,
-        "digest": "sha256:22d2862b36944412d3125625c17f4d30513400359a1099699b4c442bc450b3ad",
+        "digest": "sha256:7ebebd4fb9096ec8545203a2e69628995fdc23833d64119984b75babf6ed855b",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:54Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/checksums-sha256.txt.sig"
+        "created_at": "2026-10-31T11:49:54Z",
+        "updated_at": "2026-10-31T11:49:54Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/checksums-sha256.txt.sig"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183507",
-        "id": 695183507,
-        "node_id": "RA_kwDOT0DQEM4pb6iT",
-        "name": "DraconDex-3.6.1-arm64-v8a-release.apk",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247526",
+        "id": 695247526,
+        "node_id": "RA_kwDOT0DQEM4pcKKm",
+        "name": "DraconDex-5.6.0-win-x64.zip",
         "label": "",
         "uploader": {
           "login": "LDKTC",
@@ -136,20 +136,20 @@
           "user_view_type": "public",
           "site_admin": false
         },
-        "content_type": "application/vnd.android.package-archive",
+        "content_type": "application/zip",
         "state": "uploaded",
-        "size": 31950881,
-        "digest": "sha256:2c3d5d85d452b532f40e94684cc1ce3862d5f4ec501f0df6688baaff2c0d6b14",
+        "size": 138768096,
+        "digest": "sha256:4114052e042ad32b3e2f26caffddb4c12aa4e62b1cfe0d2d00ee202f8c3d66cd",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:55Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-arm64-v8a-release.apk"
+        "created_at": "2026-10-31T11:49:54Z",
+        "updated_at": "2026-10-31T11:49:59Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/DraconDex-5.6.0-win-x64.zip"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183504",
-        "id": 695183504,
-        "node_id": "RA_kwDOT0DQEM4pb6iQ",
-        "name": "DraconDex-3.6.1-armeabi-v7a-release.apk",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247523",
+        "id": 695247523,
+        "node_id": "RA_kwDOT0DQEM4pcKKj",
+        "name": "DraconDex-Portable-5.6.0.exe",
         "label": "",
         "uploader": {
           "login": "LDKTC",
@@ -172,20 +172,20 @@
           "user_view_type": "public",
           "site_admin": false
         },
-        "content_type": "application/vnd.android.package-archive",
+        "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 30523243,
-        "digest": "sha256:f20f5d471aadf030287954da6b71afe7e674a36b86eae37e2a16611f3be6691e",
+        "size": 89247288,
+        "digest": "sha256:46d27b58226914bb12e0a16fc41bb510e8f489efbf72d5ac13e5b7273da8858a",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:55Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-armeabi-v7a-release.apk"
+        "created_at": "2026-10-31T11:49:54Z",
+        "updated_at": "2026-10-31T11:49:57Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/DraconDex-Portable-5.6.0.exe"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183506",
-        "id": 695183506,
-        "node_id": "RA_kwDOT0DQEM4pb6iS",
-        "name": "DraconDex-3.6.1-release.apk",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247534",
+        "id": 695247534,
+        "node_id": "RA_kwDOT0DQEM4pcKKu",
+        "name": "DraconDex-Setup-5.6.0.exe",
         "label": "",
         "uploader": {
           "login": "LDKTC",
@@ -208,20 +208,20 @@
           "user_view_type": "public",
           "site_admin": false
         },
-        "content_type": "application/vnd.android.package-archive",
+        "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 88551920,
-        "digest": "sha256:c1077fa4a92845e078f52f9bdd7f1c3b7681269002c4e6717eb05035f78d22a0",
+        "size": 98953812,
+        "digest": "sha256:3e0a95891946f385297d750d63d1c9a3b6ba50602942e3eafc95cf8b0dceb26f",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:56Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-release.apk"
+        "created_at": "2026-10-31T11:49:55Z",
+        "updated_at": "2026-10-31T11:49:58Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/DraconDex-Setup-5.6.0.exe"
       },
       {
-        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183525",
-        "id": 695183525,
-        "node_id": "RA_kwDOT0DQEM4pb6il",
-        "name": "DraconDex-3.6.1-x86_64-release.apk",
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247525",
+        "id": 695247525,
+        "node_id": "RA_kwDOT0DQEM4pcKKl",
+        "name": "DraconDex-Setup-5.6.0.exe.blockmap",
         "label": "",
         "uploader": {
           "login": "LDKTC",
@@ -244,19 +244,55 @@
           "user_view_type": "public",
           "site_admin": false
         },
-        "content_type": "application/vnd.android.package-archive",
+        "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 33386230,
-        "digest": "sha256:bf5dda6129bf846a44a16795738b7efbef3b99b53dd53a6d9fb0c92ba51a7498",
+        "size": 104389,
+        "digest": "sha256:6089c2fd9f01dbcb807cb5aa1830cbdef84ce5daa05e95313ed0c08e2f6e3c39",
         "download_count": 0,
-        "created_at": "2026-10-31T11:19:54Z",
-        "updated_at": "2026-10-31T11:19:55Z",
-        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-x86_64-release.apk"
+        "created_at": "2026-10-31T11:49:54Z",
+        "updated_at": "2026-10-31T11:49:54Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/DraconDex-Setup-5.6.0.exe.blockmap"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695247520",
+        "id": 695247520,
+        "node_id": "RA_kwDOT0DQEM4pcKKg",
+        "name": "latest.yml",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/yaml",
+        "state": "uploaded",
+        "size": 346,
+        "digest": "sha256:83bebf4c66b4e3aa3576243b4163da8665898d3305a593c99be9248ff54b632a",
+        "download_count": 0,
+        "created_at": "2026-10-31T11:49:54Z",
+        "updated_at": "2026-10-31T11:49:54Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.6.0/latest.yml"
       }
     ],
-    "tarball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/tarball/flutter-v3.6.1",
-    "zipball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/zipball/flutter-v3.6.1",
-    "body": "## What's Changed\n* 3.6.1+35 — Wikilinks: a name holding | [ ] no longer breaks the link (Procress 31 part 1); SDB 2.1.3 by @LDKTC in https://github.com/ZYDRAXYL/DraconDex-APK/pull/20\n\n\n**Full Changelog**: https://github.com/ZYDRAXYL/DraconDex-APK/compare/flutter-v3.6.0...flutter-v3.6.1\n\n---\n\nMirrored from the DraconDex app repository. Links in the notes above point into that repository and are not public.\n",
+    "tarball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/tarball/v5.6.0",
+    "zipball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/zipball/v5.6.0",
+    "body": "## What's Changed\n* 5.6.0 — Procress 31: wikilink names with | · Classifier view options & sort · link lines · links stay links while editing · live component previews by @LDKTC in https://github.com/ZYDRAXYL/DraconDex-EXE/pull/25\n\n\n**Full Changelog**: https://github.com/ZYDRAXYL/DraconDex-EXE/compare/v5.5.2...v5.6.0\n\n---\n\nMirrored from the DraconDex app repository. Links in the notes above point into that repository and are not public.\n",
     "mentions_count": 1
   },
   {
@@ -328,7 +364,7 @@
         "state": "uploaded",
         "size": 464,
         "digest": "sha256:4eda7fa3369a225c751ff4dc88c47de74835eb055e6af09f6bcbfc081781cc0c",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:33:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/checksums-sha256.txt"
@@ -364,7 +400,7 @@
         "state": "uploaded",
         "size": 89,
         "digest": "sha256:1956d5869f25f54b159f4e03dce68db5bc0b2e4e8622adec7b196ff5c75c9adb",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:33:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/checksums-sha256.txt.sig"
@@ -400,7 +436,7 @@
         "state": "uploaded",
         "size": 138753610,
         "digest": "sha256:65be9cc420d10448e9ce3cc0e98fe1d6852d53f870f0677801f223250fc776ac",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:34:00Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/DraconDex-5.5.2-win-x64.zip"
@@ -472,7 +508,7 @@
         "state": "uploaded",
         "size": 98942660,
         "digest": "sha256:212cc76f7017f2cf4981c7c6e6222e4cfbc19bf569fed06c04b641fd8a804211",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:33:58Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/DraconDex-Setup-5.5.2.exe"
@@ -508,7 +544,7 @@
         "state": "uploaded",
         "size": 104278,
         "digest": "sha256:d0b4080da8c75443dc8a1366ccd3793d080a73f653fed77f500b327d33e0ad4b",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:33:56Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/DraconDex-Setup-5.5.2.exe.blockmap"
@@ -544,7 +580,7 @@
         "state": "uploaded",
         "size": 346,
         "digest": "sha256:0ad2ee9408fe91fad7cacbc01a83016a563a5e69bf122bfd12e290db4f27e448",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T18:33:55Z",
         "updated_at": "2026-10-28T18:33:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.2/latest.yml"
@@ -553,6 +589,266 @@
     "tarball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/tarball/v5.5.2",
     "zipball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/zipball/v5.5.2",
     "body": "## What's Changed\n* 5.5.2 — Popups and menus stay inside the window at every UI Size by @LDKTC in https://github.com/ZYDRAXYL/DraconDex-EXE/pull/24\n\n\n**Full Changelog**: https://github.com/ZYDRAXYL/DraconDex-EXE/compare/v5.5.1...v5.5.2\n\n---\n\nMirrored from the DraconDex app repository. Links in the notes above point into that repository and are not public.\n",
+    "mentions_count": 1
+  },
+  {
+    "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721",
+    "assets_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721/assets",
+    "upload_url": "https://uploads.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/429889721/assets{?name,label}",
+    "html_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/tag/flutter-v3.6.1",
+    "id": 429889721,
+    "author": {
+      "login": "LDKTC",
+      "id": 232616950,
+      "node_id": "U_kgDODd1z9g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/LDKTC",
+      "html_url": "https://github.com/LDKTC",
+      "followers_url": "https://api.github.com/users/LDKTC/followers",
+      "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+      "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+      "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+      "repos_url": "https://api.github.com/users/LDKTC/repos",
+      "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOT0DQEM4Zn5i5",
+    "tag_name": "flutter-v3.6.1",
+    "target_commitish": "main",
+    "name": "DraconDex APK 3.6.1",
+    "draft": false,
+    "immutable": false,
+    "prerelease": false,
+    "created_at": "2026-10-28T18:34:03Z",
+    "updated_at": "2026-10-31T11:19:57Z",
+    "published_at": "2026-10-31T11:19:57Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183503",
+        "id": 695183503,
+        "node_id": "RA_kwDOT0DQEM4pb6iP",
+        "name": "checksums-sha256.txt",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "text/plain; charset=utf-8",
+        "state": "uploaded",
+        "size": 405,
+        "digest": "sha256:940a1a3f6a989b6780e3ea8cd41cc4ec5f1ed912749ee6abb1c2ca628748c308",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:54Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/checksums-sha256.txt"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183505",
+        "id": 695183505,
+        "node_id": "RA_kwDOT0DQEM4pb6iR",
+        "name": "checksums-sha256.txt.sig",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/pgp-signature",
+        "state": "uploaded",
+        "size": 89,
+        "digest": "sha256:22d2862b36944412d3125625c17f4d30513400359a1099699b4c442bc450b3ad",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:54Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/checksums-sha256.txt.sig"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183507",
+        "id": 695183507,
+        "node_id": "RA_kwDOT0DQEM4pb6iT",
+        "name": "DraconDex-3.6.1-arm64-v8a-release.apk",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 31950881,
+        "digest": "sha256:2c3d5d85d452b532f40e94684cc1ce3862d5f4ec501f0df6688baaff2c0d6b14",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:55Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-arm64-v8a-release.apk"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183504",
+        "id": 695183504,
+        "node_id": "RA_kwDOT0DQEM4pb6iQ",
+        "name": "DraconDex-3.6.1-armeabi-v7a-release.apk",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 30523243,
+        "digest": "sha256:f20f5d471aadf030287954da6b71afe7e674a36b86eae37e2a16611f3be6691e",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:55Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-armeabi-v7a-release.apk"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183506",
+        "id": 695183506,
+        "node_id": "RA_kwDOT0DQEM4pb6iS",
+        "name": "DraconDex-3.6.1-release.apk",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 88551920,
+        "digest": "sha256:c1077fa4a92845e078f52f9bdd7f1c3b7681269002c4e6717eb05035f78d22a0",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:56Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-release.apk"
+      },
+      {
+        "url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/releases/assets/695183525",
+        "id": 695183525,
+        "node_id": "RA_kwDOT0DQEM4pb6il",
+        "name": "DraconDex-3.6.1-x86_64-release.apk",
+        "label": "",
+        "uploader": {
+          "login": "LDKTC",
+          "id": 232616950,
+          "node_id": "U_kgDODd1z9g",
+          "avatar_url": "https://avatars.githubusercontent.com/u/232616950?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/LDKTC",
+          "html_url": "https://github.com/LDKTC",
+          "followers_url": "https://api.github.com/users/LDKTC/followers",
+          "following_url": "https://api.github.com/users/LDKTC/following{/other_user}",
+          "gists_url": "https://api.github.com/users/LDKTC/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/LDKTC/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/LDKTC/subscriptions",
+          "organizations_url": "https://api.github.com/users/LDKTC/orgs",
+          "repos_url": "https://api.github.com/users/LDKTC/repos",
+          "events_url": "https://api.github.com/users/LDKTC/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/LDKTC/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 33386230,
+        "digest": "sha256:bf5dda6129bf846a44a16795738b7efbef3b99b53dd53a6d9fb0c92ba51a7498",
+        "download_count": 1,
+        "created_at": "2026-10-31T11:19:54Z",
+        "updated_at": "2026-10-31T11:19:55Z",
+        "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.1/DraconDex-3.6.1-x86_64-release.apk"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/tarball/flutter-v3.6.1",
+    "zipball_url": "https://api.github.com/repos/ZYDRAXYL/DraconDex-WEB/zipball/flutter-v3.6.1",
+    "body": "## What's Changed\n* 3.6.1+35 — Wikilinks: a name holding | [ ] no longer breaks the link (Procress 31 part 1); SDB 2.1.3 by @LDKTC in https://github.com/ZYDRAXYL/DraconDex-APK/pull/20\n\n\n**Full Changelog**: https://github.com/ZYDRAXYL/DraconDex-APK/compare/flutter-v3.6.0...flutter-v3.6.1\n\n---\n\nMirrored from the DraconDex app repository. Links in the notes above point into that repository and are not public.\n",
     "mentions_count": 1
   },
   {
@@ -624,7 +920,7 @@
         "state": "uploaded",
         "size": 464,
         "digest": "sha256:d935189c39f63061c3e1c2ca33a1c7f5f92da37c8e424885cfdaa0ff60e42c74",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:04Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/checksums-sha256.txt"
@@ -660,7 +956,7 @@
         "state": "uploaded",
         "size": 89,
         "digest": "sha256:7a8ee575f9b47fe55bdc7aa3e0dc221f604a524c9cf0fc2d50717809473c1a20",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:05Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/checksums-sha256.txt.sig"
@@ -696,7 +992,7 @@
         "state": "uploaded",
         "size": 138752375,
         "digest": "sha256:bcd0f71e292b353e3df9aae436349a0fa560ca60dbf8b9188da7c2f4cea84dbe",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:10Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/DraconDex-5.5.1-win-x64.zip"
@@ -732,7 +1028,7 @@
         "state": "uploaded",
         "size": 89234912,
         "digest": "sha256:0397dbfebfa596b4311765c6af9c4d3b42206d7a62cf889eb2feeb67697d6bfe",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:09Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/DraconDex-Portable-5.5.1.exe"
@@ -768,7 +1064,7 @@
         "state": "uploaded",
         "size": 98942409,
         "digest": "sha256:c459c50bc6c73398616fb52b0ec2e291aefbdb83c2ba926b102f6d19e6cd950d",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:10Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/DraconDex-Setup-5.5.1.exe"
@@ -804,7 +1100,7 @@
         "state": "uploaded",
         "size": 103990,
         "digest": "sha256:74b3e0000ab7a640741725adddf06acb6618c5c545023109045f2b00ffbee9e1",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:04Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/DraconDex-Setup-5.5.1.exe.blockmap"
@@ -840,7 +1136,7 @@
         "state": "uploaded",
         "size": 346,
         "digest": "sha256:0cc93a60d7d212db48866ffb3c087c796e1ef43ad020be7742c93199721d657f",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-28T11:54:04Z",
         "updated_at": "2026-10-28T11:54:04Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.1/latest.yml"
@@ -920,7 +1216,7 @@
         "state": "uploaded",
         "size": 464,
         "digest": "sha256:8045ed269d25625354ae06d4dcd5391872c19ca93aa4daabc18bc927616fd041",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-10-27T21:43:31Z",
         "updated_at": "2026-10-27T21:43:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/checksums-sha256.txt"
@@ -956,7 +1252,7 @@
         "state": "uploaded",
         "size": 89,
         "digest": "sha256:1929eafe6317d8b25cfe98a0960d43a4f9d155a7eaa77be3b07f9b95b0a779fb",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T21:43:32Z",
         "updated_at": "2026-10-27T21:43:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/checksums-sha256.txt.sig"
@@ -992,7 +1288,7 @@
         "state": "uploaded",
         "size": 138750263,
         "digest": "sha256:377836364ed111cadae530fde341803283b5cc2facf209bbd157afba0db2499a",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:43:31Z",
         "updated_at": "2026-10-27T21:43:37Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/DraconDex-5.5.0-win-x64.zip"
@@ -1028,7 +1324,7 @@
         "state": "uploaded",
         "size": 89233634,
         "digest": "sha256:c0a44a1a400c4e2f3d9d471f83f921b4683e9b1d7da7d9d5cce918ca8d0fb1a5",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:43:31Z",
         "updated_at": "2026-10-27T21:43:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/DraconDex-Portable-5.5.0.exe"
@@ -1064,7 +1360,7 @@
         "state": "uploaded",
         "size": 98940800,
         "digest": "sha256:ef33ee5f1c0954f6eea3fa0910a9dfde0a85652f1ffdcecbc93425c61f639334",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T21:43:31Z",
         "updated_at": "2026-10-27T21:43:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/DraconDex-Setup-5.5.0.exe"
@@ -1100,7 +1396,7 @@
         "state": "uploaded",
         "size": 104021,
         "digest": "sha256:734a468a847224b135765f2a039c62053b645d311f1516a6a86cc6e54f364c38",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T21:43:31Z",
         "updated_at": "2026-10-27T21:43:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/DraconDex-Setup-5.5.0.exe.blockmap"
@@ -1136,7 +1432,7 @@
         "state": "uploaded",
         "size": 346,
         "digest": "sha256:5b725aab52c8e859edb5bed516f2c6c529c1ae8d8b325e2d1aec260b530790b3",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-10-27T21:43:32Z",
         "updated_at": "2026-10-27T21:43:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.5.0/latest.yml"
@@ -1216,7 +1512,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:224e304534da449e9898c7bee0638e8a326b2cecb973193f5ed5c88e1d7f9382",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T07:14:13Z",
         "updated_at": "2026-10-27T07:14:13Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.4.0/checksums-sha256.txt"
@@ -1252,7 +1548,7 @@
         "state": "uploaded",
         "size": 137641208,
         "digest": "sha256:f23787ac3a5bd581ac120c770669ffc7e529ea0b0cb26d08284c88397b7a868c",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:14:13Z",
         "updated_at": "2026-10-27T07:14:18Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.4.0/DraconDex-5.4.0-win-x64.zip"
@@ -1288,7 +1584,7 @@
         "state": "uploaded",
         "size": 88425719,
         "digest": "sha256:d1d6bc56aaf9ea8df055f35f714db9838d2d4cd3bc626ee1416bdb1b6f4d3084",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:14:13Z",
         "updated_at": "2026-10-27T07:14:18Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.4.0/DraconDex-Portable-5.4.0.exe"
@@ -1324,7 +1620,7 @@
         "state": "uploaded",
         "size": 98114053,
         "digest": "sha256:3ef3bdea4a852bcfd708330dcb831f51f42377a42f69b3cdfe1970537c4cda5b",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T07:14:13Z",
         "updated_at": "2026-10-27T07:14:17Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.4.0/DraconDex-Setup-5.4.0.exe"
@@ -1404,7 +1700,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:333151cbead2c1a83a38f0f966b56dd5845e26e5274bf4fff0db61a8ff38fa0e",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T21:50:34Z",
         "updated_at": "2026-10-27T21:50:34Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/checksums-sha256.txt"
@@ -1440,7 +1736,7 @@
         "state": "uploaded",
         "size": 89,
         "digest": "sha256:6f765eb8c57e178e4c5c2c79f0cdc39e0fe0587187f875e83a9caf618d215562",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-27T21:50:35Z",
         "updated_at": "2026-10-27T21:50:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/checksums-sha256.txt.sig"
@@ -1476,7 +1772,7 @@
         "state": "uploaded",
         "size": 31950881,
         "digest": "sha256:7001d202323832aa32b037107c660cf3b111756775bd4b82492ac83416ec75e9",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:50:34Z",
         "updated_at": "2026-10-27T21:50:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/DraconDex-3.6.0-arm64-v8a-release.apk"
@@ -1512,7 +1808,7 @@
         "state": "uploaded",
         "size": 30523243,
         "digest": "sha256:35b536ba0244e920b531b40cef7710f9d354ee2ca075dd6aab9205c50a2e3e21",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:50:34Z",
         "updated_at": "2026-10-27T21:50:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/DraconDex-3.6.0-armeabi-v7a-release.apk"
@@ -1548,7 +1844,7 @@
         "state": "uploaded",
         "size": 88551920,
         "digest": "sha256:0e0ddfef1ee677628a558a99f859e6be3e9f523eb85a1fc9f9a8b4aafa993fd4",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:50:34Z",
         "updated_at": "2026-10-27T21:50:37Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/DraconDex-3.6.0-release.apk"
@@ -1584,7 +1880,7 @@
         "state": "uploaded",
         "size": 33386230,
         "digest": "sha256:e4e3efddf30055ffae54801392bccaf88a4d0d38c03bcbd5c8404e0a433c97c7",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T21:50:34Z",
         "updated_at": "2026-10-27T21:50:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.6.0/DraconDex-3.6.0-x86_64-release.apk"
@@ -1664,7 +1960,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:dc98aee4389c251d4e7beda37d96fa963274817b49da6560eed925c78740af0e",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-26T15:42:24Z",
         "updated_at": "2026-10-26T15:42:24Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.1/checksums-sha256.txt"
@@ -1700,7 +1996,7 @@
         "state": "uploaded",
         "size": 137625813,
         "digest": "sha256:ea32d0e1b5983bdeb8f17cb15185f11474318d623eb6c7ec9c5317c03164ac59",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:42:24Z",
         "updated_at": "2026-10-26T15:42:33Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.1/DraconDex-5.3.1-win-x64.zip"
@@ -1736,7 +2032,7 @@
         "state": "uploaded",
         "size": 88414072,
         "digest": "sha256:cc0f1c2029e0b851fdbafc765d966b9b0493aa7a2c4e617f64913f579fd5c464",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:42:24Z",
         "updated_at": "2026-10-26T15:42:31Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.1/DraconDex-Portable-5.3.1.exe"
@@ -1772,7 +2068,7 @@
         "state": "uploaded",
         "size": 98101328,
         "digest": "sha256:4ce75b231e793eab60324aaedc45a992465c42d5a37a8f26835f78e079411d45",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-26T15:42:24Z",
         "updated_at": "2026-10-26T15:42:33Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.1/DraconDex-Setup-5.3.1.exe"
@@ -1852,7 +2148,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:0c0d4ff53dd12578e2df6fe343099ec361dac5ea0838b4830782cf37212091d3",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T10:18:22Z",
         "updated_at": "2026-10-26T10:18:22Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/checksums-sha256.txt"
@@ -1888,7 +2184,7 @@
         "state": "uploaded",
         "size": 137618901,
         "digest": "sha256:73d14054317c66402ffe63d0322a17b88adc11e4831fcf34c485a6f7d31bc3ba",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T10:18:22Z",
         "updated_at": "2026-10-26T10:18:28Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-5.3.0-win-x64.zip"
@@ -1924,7 +2220,7 @@
         "state": "uploaded",
         "size": 88408535,
         "digest": "sha256:6af1e5c0551d8d5df05683667e51b721412f43dfed58f32a4d75493971e1f207",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T10:18:22Z",
         "updated_at": "2026-10-26T10:18:26Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-Portable-5.3.0.exe"
@@ -1960,7 +2256,7 @@
         "state": "uploaded",
         "size": 98096052,
         "digest": "sha256:2abeae54352103e08389d9694d30c0c7855442cfbeacfda3dd279ad0e0adb1ca",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-26T10:18:22Z",
         "updated_at": "2026-10-26T10:18:27Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.3.0/DraconDex-Setup-5.3.0.exe"
@@ -2040,7 +2336,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:4ede042cdb7e2c63add387e405ace4a3fdb4665f4c074aa183a21deecdbe4ec5",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:00:15Z",
         "updated_at": "2026-10-27T07:00:15Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.5.0/checksums-sha256.txt"
@@ -2076,7 +2372,7 @@
         "state": "uploaded",
         "size": 30629500,
         "digest": "sha256:d3e7a48c505bcbe1a3f90df75f8aa1e7f5c376e7bb0a14d6eb6a06f1a4a37863",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:00:15Z",
         "updated_at": "2026-10-27T07:00:18Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.5.0/DraconDex-3.5.0-arm64-v8a-release.apk"
@@ -2112,7 +2408,7 @@
         "state": "uploaded",
         "size": 29218246,
         "digest": "sha256:2e3dcba2f7a511d45c65869b63d8ae70eda648a79e128152d087190ced828fdd",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:00:15Z",
         "updated_at": "2026-10-27T07:00:18Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.5.0/DraconDex-3.5.0-armeabi-v7a-release.apk"
@@ -2148,7 +2444,7 @@
         "state": "uploaded",
         "size": 86001739,
         "digest": "sha256:8d3e308cfa4c91aa68ff93c35465f9836e06c1f5499ba17357d0a0e5075bd96e",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:00:15Z",
         "updated_at": "2026-10-27T07:00:19Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.5.0/DraconDex-3.5.0-release.apk"
@@ -2184,7 +2480,7 @@
         "state": "uploaded",
         "size": 32130385,
         "digest": "sha256:97d5937161420192a4161568506af407311467767427b3f79373dfce4364049a",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-27T07:00:15Z",
         "updated_at": "2026-10-27T07:00:19Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.5.0/DraconDex-3.5.0-x86_64-release.apk"
@@ -2264,7 +2560,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:e2dc700b886ba3da945a8712b05b71062ed5367fbcf475d18764b26b4155b3fa",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:22:04Z",
         "updated_at": "2026-10-26T15:22:04Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.1/checksums-sha256.txt"
@@ -2300,7 +2596,7 @@
         "state": "uploaded",
         "size": 30562196,
         "digest": "sha256:3c6df7077119d57fef781207af687a1e8bdcc19a75e57d3604fb3e90b2bab1df",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:22:04Z",
         "updated_at": "2026-10-26T15:22:07Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.1/DraconDex-3.4.1-arm64-v8a-release.apk"
@@ -2336,7 +2632,7 @@
         "state": "uploaded",
         "size": 29118174,
         "digest": "sha256:200949d07130b1b5c9a0f770fb15bca6c53c0abe5287c85d10e78865b2a4b332",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:22:04Z",
         "updated_at": "2026-10-26T15:22:06Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.1/DraconDex-3.4.1-armeabi-v7a-release.apk"
@@ -2372,7 +2668,7 @@
         "state": "uploaded",
         "size": 85836127,
         "digest": "sha256:9f7eb26d4fb9d7c6e5478b075a56fcbd263931510c7543b46b5a9d3fc4dbf067",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:22:04Z",
         "updated_at": "2026-10-26T15:22:08Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.1/DraconDex-3.4.1-release.apk"
@@ -2408,7 +2704,7 @@
         "state": "uploaded",
         "size": 32128613,
         "digest": "sha256:4334d836ab349b3294ca7163cda063a937078b5e1480fdcca1757e65c43762d3",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-26T15:22:04Z",
         "updated_at": "2026-10-26T15:22:06Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.1/DraconDex-3.4.1-x86_64-release.apk"
@@ -2488,7 +2784,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:a83b6bbc21d5ac103b9c83c6a67d8c0b67bad58bc5734f8169a8860753ebe8fa",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T15:15:50Z",
         "updated_at": "2026-10-24T15:15:50Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.2.0/checksums-sha256.txt"
@@ -2524,7 +2820,7 @@
         "state": "uploaded",
         "size": 137616947,
         "digest": "sha256:017c26f3ad359426c0815611c7fa9d64d5b1c4642c8d1a4dda0b6b6cdcc7a1ca",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T15:15:50Z",
         "updated_at": "2026-10-24T15:15:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.2.0/DraconDex-5.2.0-win-x64.zip"
@@ -2560,7 +2856,7 @@
         "state": "uploaded",
         "size": 88406043,
         "digest": "sha256:902c64abcb6e1352f40b4d96ddf5e5a21ce27c84d49e7b319314a75554ce9576",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T15:15:50Z",
         "updated_at": "2026-10-24T15:15:53Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.2.0/DraconDex-Portable-5.2.0.exe"
@@ -2596,7 +2892,7 @@
         "state": "uploaded",
         "size": 98094968,
         "digest": "sha256:20436459427c2c30a38d74690c44b9965c49ffa2b0d8a607afcbbe4d2d3b6d17",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-24T15:15:50Z",
         "updated_at": "2026-10-24T15:15:56Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.2.0/DraconDex-Setup-5.2.0.exe"
@@ -2676,7 +2972,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:baa723c48980cd147ea6f673ef48505a817106cc3b1b63bf022d74f265cb86f3",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T14:48:31Z",
         "updated_at": "2026-10-24T14:48:31Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.0/checksums-sha256.txt"
@@ -2712,7 +3008,7 @@
         "state": "uploaded",
         "size": 30562248,
         "digest": "sha256:cef0541ec761012488737ad7b8e25b1fd1ee8900f74e2ee68153c73c65551e8f",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T14:48:31Z",
         "updated_at": "2026-10-24T14:48:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.0/DraconDex-3.4.0-arm64-v8a-release.apk"
@@ -2748,7 +3044,7 @@
         "state": "uploaded",
         "size": 29118226,
         "digest": "sha256:fb9199d58e282cb8a0c0200d3cc86a433f182895b6d59f94bc889a1b5cd79383",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T14:48:31Z",
         "updated_at": "2026-10-24T14:48:32Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.0/DraconDex-3.4.0-armeabi-v7a-release.apk"
@@ -2784,7 +3080,7 @@
         "state": "uploaded",
         "size": 85836183,
         "digest": "sha256:2031d80ddea073d7592154bac3669a19dea33dd588d9de176be0faddd38fde9a",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T14:48:31Z",
         "updated_at": "2026-10-24T14:48:34Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.0/DraconDex-3.4.0-release.apk"
@@ -2820,7 +3116,7 @@
         "state": "uploaded",
         "size": 32128669,
         "digest": "sha256:1f60899078bf086e1f818c5f6c661ca07c51da0e118cd6c1c5e1171fb5815871",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-24T14:48:31Z",
         "updated_at": "2026-10-24T14:48:33Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.4.0/DraconDex-3.4.0-x86_64-release.apk"
@@ -2900,7 +3196,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:e2af9b4511c83b18ef2b47d6a0200bc675b6cd1078b343f0ce3dd3e50a4e7c66",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:21:52Z",
         "updated_at": "2026-10-05T15:21:52Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.1.0/checksums-sha256.txt"
@@ -2936,7 +3232,7 @@
         "state": "uploaded",
         "size": 137209747,
         "digest": "sha256:d391c5b2beb9ce4dbea66d4951dce5cb0d93c96ff491237c966a15c2f1dd238f",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:21:52Z",
         "updated_at": "2026-10-05T15:21:56Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.1.0/DraconDex-5.1.0-win-x64.zip"
@@ -2972,7 +3268,7 @@
         "state": "uploaded",
         "size": 88006411,
         "digest": "sha256:f71be830f567cd5b5d2d26558a13ec7ae7c52550219d464da21fec5a21aa914e",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:21:52Z",
         "updated_at": "2026-10-05T15:21:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.1.0/DraconDex-Portable-5.1.0.exe"
@@ -3008,7 +3304,7 @@
         "state": "uploaded",
         "size": 97536248,
         "digest": "sha256:2ea8f5c2ba820a7da7be5903369c75912b82fe6d417c708a650555ee50083862",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-05T15:21:52Z",
         "updated_at": "2026-10-05T15:21:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.1.0/DraconDex-Setup-5.1.0.exe"
@@ -3088,7 +3384,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:e7be2e75d2fc1647292bc126635c08c4aade521b43e6406a0fcb8fa6ca55f97d",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:17:34Z",
         "updated_at": "2026-09-27T13:17:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.0.0/checksums-sha256.txt"
@@ -3124,7 +3420,7 @@
         "state": "uploaded",
         "size": 137102895,
         "digest": "sha256:ed400cac37e926e622ffb21f0954c881ccb5f89f48bb88e26f2dddce2f306a94",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:17:34Z",
         "updated_at": "2026-09-27T13:17:39Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.0.0/DraconDex-5.0.0-win-x64.zip"
@@ -3160,7 +3456,7 @@
         "state": "uploaded",
         "size": 87931632,
         "digest": "sha256:fedfb1201057c9da0e223b6904f7a830f0d5155ec08ef0d5368c218e2e37f259",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:17:34Z",
         "updated_at": "2026-09-27T13:17:38Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.0.0/DraconDex-Portable-5.0.0.exe"
@@ -3196,7 +3492,7 @@
         "state": "uploaded",
         "size": 97454914,
         "digest": "sha256:f8cfbb5d752f838001ee00f704aedd0ecc7e963f8a2343da452a347da76367d2",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:17:34Z",
         "updated_at": "2026-09-27T13:17:38Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v5.0.0/DraconDex-Setup-5.0.0.exe"
@@ -3276,7 +3572,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:14f18292a095da14deadec4656772a4db3045bb1a593d062dfdd91d8a5547009",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:04:46Z",
         "updated_at": "2026-10-05T15:04:47Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.3.0/checksums-sha256.txt"
@@ -3312,7 +3608,7 @@
         "state": "uploaded",
         "size": 34594315,
         "digest": "sha256:b3ecc3994e4275943b77cc7b4c4533229821cfc282b293181457f10cbddb4362",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:04:46Z",
         "updated_at": "2026-10-05T15:04:48Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.3.0/DraconDex-3.3.0-arm64-v8a-release.apk"
@@ -3348,7 +3644,7 @@
         "state": "uploaded",
         "size": 33084757,
         "digest": "sha256:d48ce69996079d0ab60fdd1ab40e20802117066762214d3b1ca0cfe780164bd1",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:04:46Z",
         "updated_at": "2026-10-05T15:04:48Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.3.0/DraconDex-3.3.0-armeabi-v7a-release.apk"
@@ -3384,7 +3680,7 @@
         "state": "uploaded",
         "size": 89147350,
         "digest": "sha256:1b1aa54689f9be15de6be09f84daf681115f6e5fb169cc495bf77fd1f186bf41",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:04:46Z",
         "updated_at": "2026-10-05T15:04:49Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.3.0/DraconDex-3.3.0-release.apk"
@@ -3420,7 +3716,7 @@
         "state": "uploaded",
         "size": 36029660,
         "digest": "sha256:2ed212702057aede45775f83c30609112d8beff3a451dbcf81542801ae5b07bb",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-10-05T15:04:46Z",
         "updated_at": "2026-10-05T15:04:48Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.3.0/DraconDex-3.3.0-x86_64-release.apk"
@@ -3500,7 +3796,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:7ae266308d66dc04d818ed8859032988f467ef236ea2cabbb22700bd1b459593",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:02:35Z",
         "updated_at": "2026-09-27T13:02:35Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.2.1/checksums-sha256.txt"
@@ -3536,7 +3832,7 @@
         "state": "uploaded",
         "size": 34391891,
         "digest": "sha256:59c2088829238912664f11d949f97387097c2d990664d258f26bbe9b5820266c",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:02:35Z",
         "updated_at": "2026-09-27T13:02:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.2.1/DraconDex-3.2.1-arm64-v8a-release.apk"
@@ -3572,7 +3868,7 @@
         "state": "uploaded",
         "size": 32898717,
         "digest": "sha256:b68caa31f6f6463507fe88049fe73b6dca13bfeccd76b58d1c0eaf387a22d009",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:02:35Z",
         "updated_at": "2026-09-27T13:02:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.2.1/DraconDex-3.2.1-armeabi-v7a-release.apk"
@@ -3608,7 +3904,7 @@
         "state": "uploaded",
         "size": 88633634,
         "digest": "sha256:835836eb175a952c4b4569820bfbf6efcefa765ce2a0bd9590c1475b51314a19",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:02:35Z",
         "updated_at": "2026-09-27T13:02:37Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.2.1/DraconDex-3.2.1-release.apk"
@@ -3644,7 +3940,7 @@
         "state": "uploaded",
         "size": 35892776,
         "digest": "sha256:6967bcc1be4e2337dc75bee24a9d028e45dcbdb1ef1b061423de44a971ef4156",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-27T13:02:34Z",
         "updated_at": "2026-09-27T13:02:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v3.2.1/DraconDex-3.2.1-x86_64-release.apk"
@@ -3724,7 +4020,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:67e72b878de0dea05c0e9fddcf2623af4bc1bac077fb440910ca0c7229242f4a",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T14:27:52Z",
         "updated_at": "2026-09-12T14:27:52Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.18.0/checksums-sha256.txt"
@@ -3760,7 +4056,7 @@
         "state": "uploaded",
         "size": 135974323,
         "digest": "sha256:26c82c3ccb925ec92452c56570854d5b7d4e211ebd847fb5348a3bea3efe66e8",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T14:27:52Z",
         "updated_at": "2026-09-12T14:27:58Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.18.0/DraconDex-4.18.0-win-x64.zip"
@@ -3796,7 +4092,7 @@
         "state": "uploaded",
         "size": 87069404,
         "digest": "sha256:c75750dbc50dd326230cd314f328d5b3e374ed7831841f9d6cd181d22de7e778",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T14:27:52Z",
         "updated_at": "2026-09-12T14:27:56Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.18.0/DraconDex-Portable-4.18.0.exe"
@@ -3832,7 +4128,7 @@
         "state": "uploaded",
         "size": 96548705,
         "digest": "sha256:d032055140eae8dc04b894005bfe9a6b7111d8f22da37357b063918697ee4f3d",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T14:27:52Z",
         "updated_at": "2026-09-12T14:27:56Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.18.0/DraconDex-Setup-4.18.0.exe"
@@ -3912,7 +4208,7 @@
         "state": "uploaded",
         "size": 409,
         "digest": "sha256:fac5004b1078cea76c54360a1c066afa40cabf545afe8b9fd1dafe1b5528ba73",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-16T11:14:13Z",
         "updated_at": "2026-09-16T11:14:14Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.12.0/checksums-sha256.txt"
@@ -3948,7 +4244,7 @@
         "state": "uploaded",
         "size": 29300728,
         "digest": "sha256:a0b1ff209bca370b8f91d238423fd704112103e6bd18972bd83646b6ad380f14",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-16T11:14:13Z",
         "updated_at": "2026-09-16T11:14:16Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.12.0/DraconDex-2.12.0-arm64-v8a-release.apk"
@@ -3984,7 +4280,7 @@
         "state": "uploaded",
         "size": 27021122,
         "digest": "sha256:21a57ab8c14485debbbbe7cf6dc967a5bbce0cad9f800980b56ceca6c9cca83c",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-16T11:14:13Z",
         "updated_at": "2026-09-16T11:14:16Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.12.0/DraconDex-2.12.0-armeabi-v7a-release.apk"
@@ -4020,7 +4316,7 @@
         "state": "uploaded",
         "size": 72729027,
         "digest": "sha256:d48a83bdb85a47b0a795480b2227a696df00d426df1552b3248fcc03c832d49d",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-16T11:14:13Z",
         "updated_at": "2026-09-16T11:14:17Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.12.0/DraconDex-2.12.0-release.apk"
@@ -4056,7 +4352,7 @@
         "state": "uploaded",
         "size": 30736073,
         "digest": "sha256:fef636bbc0a178c18acf4ce9e8bd516046fd5f1d0c7955a7335ee7f126f84acd",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-16T11:14:13Z",
         "updated_at": "2026-09-16T11:14:16Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.12.0/DraconDex-2.12.0-x86_64-release.apk"
@@ -4136,7 +4432,7 @@
         "state": "uploaded",
         "size": 409,
         "digest": "sha256:e6d66481a94b30a98b9384e5c45c5095ba94f334de941616929c5beb59489908",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T18:22:07Z",
         "updated_at": "2026-09-12T18:22:07Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.11.0/checksums-sha256.txt"
@@ -4172,7 +4468,7 @@
         "state": "uploaded",
         "size": 28710428,
         "digest": "sha256:9fe69772234ebe719c3cb9c0e2876c6ee11d3e92002c4e6ef1b8bd62aa1c9fd4",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T18:22:07Z",
         "updated_at": "2026-09-12T18:22:08Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.11.0/DraconDex-2.11.0-arm64-v8a-release.apk"
@@ -4208,7 +4504,7 @@
         "state": "uploaded",
         "size": 26381670,
         "digest": "sha256:34adce595107997d0d9c9a313f4f6ac9b64ca541f450144997171797a49e96f4",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T18:22:07Z",
         "updated_at": "2026-09-12T18:22:08Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.11.0/DraconDex-2.11.0-armeabi-v7a-release.apk"
@@ -4244,7 +4540,7 @@
         "state": "uploaded",
         "size": 70909927,
         "digest": "sha256:c74aacbc3c707e7088d88721932a7c2277e12b2b7bc58febdca63713364091c6",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T18:22:07Z",
         "updated_at": "2026-09-12T18:22:09Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.11.0/DraconDex-2.11.0-release.apk"
@@ -4280,7 +4576,7 @@
         "state": "uploaded",
         "size": 30145773,
         "digest": "sha256:09195c058f0a55738a5953f28ca7e6df652d17a8fb54304e82dd3dc2c12c4617",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-12T18:22:07Z",
         "updated_at": "2026-09-12T18:22:08Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.11.0/DraconDex-2.11.0-x86_64-release.apk"
@@ -4360,7 +4656,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:f72566904eaea961b9f5622a4edb934641c2eb87acd4c479d73f90d973919267",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-09-10T19:51:45Z",
         "updated_at": "2026-09-10T19:51:46Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.17.0/checksums-sha256.txt"
@@ -4396,7 +4692,7 @@
         "state": "uploaded",
         "size": 135933622,
         "digest": "sha256:4f3a3ce51d4cc37f4452aff1fc4ff66cf68dbeb4e204a20c53981bf2a323ecd5",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-10T19:51:45Z",
         "updated_at": "2026-09-10T19:51:50Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.17.0/DraconDex-4.17.0-win-x64.zip"
@@ -4432,7 +4728,7 @@
         "state": "uploaded",
         "size": 87033171,
         "digest": "sha256:e33470a41a7afca32add61c96257c0ff44c4a74f405fce7aedcc2e773ab25ad2",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-10T19:51:45Z",
         "updated_at": "2026-09-10T19:51:48Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.17.0/DraconDex-Portable-4.17.0.exe"
@@ -4468,7 +4764,7 @@
         "state": "uploaded",
         "size": 96513243,
         "digest": "sha256:05bc3bbc8e49a600b0abc99e4486ddc95f21adeb7ad0e27df46e06a5a37b9818",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-10T19:51:45Z",
         "updated_at": "2026-09-10T19:51:49Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.17.0/DraconDex-Setup-4.17.0.exe"
@@ -4548,7 +4844,7 @@
         "state": "uploaded",
         "size": 409,
         "digest": "sha256:8911a344649f3901641da74546c2878885749345b0362840aaa800a4bddd651e",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:48:27Z",
         "updated_at": "2026-09-04T16:48:27Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.10.2/checksums-sha256.txt"
@@ -4584,7 +4880,7 @@
         "state": "uploaded",
         "size": 28054052,
         "digest": "sha256:82dd6c160643d06065a2e8c31b888e74b94067254e2833f0c186080939090d27",
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2026-09-04T16:48:27Z",
         "updated_at": "2026-09-04T16:48:28Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.10.2/DraconDex-2.10.2-arm64-v8a-release.apk"
@@ -4620,7 +4916,7 @@
         "state": "uploaded",
         "size": 25643374,
         "digest": "sha256:f724315a393b1ee0efe6e7c4ccc439b09e9c7050694b2432e9dadf62b3a52abc",
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2026-09-04T16:48:27Z",
         "updated_at": "2026-09-04T16:48:28Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.10.2/DraconDex-2.10.2-armeabi-v7a-release.apk"
@@ -4656,7 +4952,7 @@
         "state": "uploaded",
         "size": 68860915,
         "digest": "sha256:6e5a451caadbb7996fc68d0440f6426104d8a4311eb8dc0b9ef3149805c206e9",
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2026-09-04T16:48:27Z",
         "updated_at": "2026-09-04T16:48:29Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.10.2/DraconDex-2.10.2-release.apk"
@@ -4692,7 +4988,7 @@
         "state": "uploaded",
         "size": 29489397,
         "digest": "sha256:115990946f4d32a89a6481a08b6e16ddc2c77eda5b4b3b8bea8979d133f7c69c",
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2026-09-04T16:48:27Z",
         "updated_at": "2026-09-04T16:48:28Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.10.2/DraconDex-2.10.2-x86_64-release.apk"
@@ -4772,7 +5068,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:0da4e8627e741a170a3f7be777d90977cbfe3e86731b151fadbdddf6ba8ac5bb",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:52Z",
         "updated_at": "2026-09-04T16:12:52Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.12.0/checksums-sha256.txt"
@@ -4808,7 +5104,7 @@
         "state": "uploaded",
         "size": 135847190,
         "digest": "sha256:11388b751b2eb4ac0a4999e3d603ebb999f430eb79e58081a6f14aa0d324abe1",
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2026-09-04T16:12:52Z",
         "updated_at": "2026-09-04T16:12:54Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.12.0/DraconDex-4.12.0-win-x64.zip"
@@ -4844,7 +5140,7 @@
         "state": "uploaded",
         "size": 86972698,
         "digest": "sha256:84c38189989011a55d171144cdcc6d81b921da440cc54bec013623c84ab8cfd9",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-09-04T16:12:52Z",
         "updated_at": "2026-09-04T16:12:54Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.12.0/DraconDex-Portable-4.12.0.exe"
@@ -4880,7 +5176,7 @@
         "state": "uploaded",
         "size": 96445472,
         "digest": "sha256:2ede20f59b0b44811a11712e42bc50a8c321d27bf5fd004b647f18a27ebc201d",
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2026-09-04T16:12:52Z",
         "updated_at": "2026-09-04T16:12:54Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.12.0/DraconDex-Setup-4.12.0.exe"
@@ -4960,7 +5256,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:c5664ab73f1219225b36b6baad2fae8dae51b6ca4c495b54daa249cfb51874c1",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:36Z",
         "updated_at": "2026-09-04T16:12:36Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.11.0/checksums-sha256.txt"
@@ -4996,7 +5292,7 @@
         "state": "uploaded",
         "size": 135846442,
         "digest": "sha256:976caf66413fa14b4e42865d3d9f92e48a2bee5347aa04da0112808e4275d2a2",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:12:36Z",
         "updated_at": "2026-09-04T16:12:39Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.11.0/DraconDex-4.11.0-win-x64.zip"
@@ -5032,7 +5328,7 @@
         "state": "uploaded",
         "size": 86971949,
         "digest": "sha256:f9be9fefc68b663b391c3ea1f3ca805ecdf25782869519d5798da7f9fdb5fd5d",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:36Z",
         "updated_at": "2026-09-04T16:12:39Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.11.0/DraconDex-Portable-4.11.0.exe"
@@ -5068,7 +5364,7 @@
         "state": "uploaded",
         "size": 96444949,
         "digest": "sha256:a3878a0fa6f3812c8f1530523b1b7a318690cce1e8192cba574b5173e6dece4e",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:36Z",
         "updated_at": "2026-09-04T16:12:39Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.11.0/DraconDex-Setup-4.11.0.exe"
@@ -5148,7 +5444,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:b751cbc2cfc2381256ec3242d70bd9eafdf9c6729e0f67af1057d2f49b1db170",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:16Z",
         "updated_at": "2026-09-04T16:12:17Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.6/checksums-sha256.txt"
@@ -5184,7 +5480,7 @@
         "state": "uploaded",
         "size": 135817830,
         "digest": "sha256:94d3e73023e7f743e78188c9a59ec62052002a2b2a62180a6cb9a181bb082133",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:12:16Z",
         "updated_at": "2026-09-04T16:12:20Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.6/DraconDex-4.10.6-win-x64.zip"
@@ -5220,7 +5516,7 @@
         "state": "uploaded",
         "size": 86952237,
         "digest": "sha256:e641bd102a46c6d08e8c84888e832aa9e77cf8b7930fca5aabcd45587d069e20",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:16Z",
         "updated_at": "2026-09-04T16:12:19Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.6/DraconDex-Portable-4.10.6.exe"
@@ -5256,7 +5552,7 @@
         "state": "uploaded",
         "size": 96423961,
         "digest": "sha256:cf3161913424e6836d00ff6f68f2586ebd637c9e9e9d7e0a6d1e4ea75b4a9e00",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:16Z",
         "updated_at": "2026-09-04T16:12:20Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.6/DraconDex-Setup-4.10.6.exe"
@@ -5336,7 +5632,7 @@
         "state": "uploaded",
         "size": 287,
         "digest": "sha256:301539ced2016c60d6d352e8e5895c6142d46b7bc1e88f4a10725111704e84ad",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:58Z",
         "updated_at": "2026-09-04T16:11:59Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.1/checksums-sha256.txt"
@@ -5372,7 +5668,7 @@
         "state": "uploaded",
         "size": 135795876,
         "digest": "sha256:bf526b897e9c1126c91d7772cbc0bba12a0957d15cad417d9388a63a24ad71c2",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:11:58Z",
         "updated_at": "2026-09-04T16:12:02Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.1/DraconDex-4.10.1-win-x64.zip"
@@ -5408,7 +5704,7 @@
         "state": "uploaded",
         "size": 86937353,
         "digest": "sha256:5fb4ce52b072d749effd9013c95986972542cb48d1d152891e224de1c40234f5",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:58Z",
         "updated_at": "2026-09-04T16:12:01Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.1/DraconDex-Portable-4.10.1.exe"
@@ -5444,7 +5740,7 @@
         "state": "uploaded",
         "size": 96408212,
         "digest": "sha256:9e467ba8fc6138fe96cdd9737c81f74c1a65b911cd58fdc59283c9d275e0db98",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:58Z",
         "updated_at": "2026-09-04T16:12:01Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.10.1/DraconDex-Setup-4.10.1.exe"
@@ -5524,7 +5820,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:9f6c7d03a312c13751afeb6efd94bfe4cd157cce063ceab5bfb7aa12dcc3fbc1",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:50Z",
         "updated_at": "2026-09-04T16:11:50Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.7.1/checksums-sha256.txt"
@@ -5560,7 +5856,7 @@
         "state": "uploaded",
         "size": 135793238,
         "digest": "sha256:c4c5e4e3ef539b42a71c04659d9b643a61ba65e321f42ef1fedb1cb4e67cfecb",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:11:50Z",
         "updated_at": "2026-09-04T16:11:55Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.7.1/DraconDex-4.7.1-win-x64.zip"
@@ -5596,7 +5892,7 @@
         "state": "uploaded",
         "size": 86947349,
         "digest": "sha256:800befec6af969a76a83cfacd5b77861f5ebf6de9aaee3adaeeb8c1264adb489",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:50Z",
         "updated_at": "2026-09-04T16:11:54Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.7.1/DraconDex-Portable-4.7.1.exe"
@@ -5632,7 +5928,7 @@
         "state": "uploaded",
         "size": 96429966,
         "digest": "sha256:b60222dcedb980afc294733a3cec704d40857bb57ebd12605ea41fee003f6c82",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:50Z",
         "updated_at": "2026-09-04T16:11:53Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.7.1/DraconDex-Setup-4.7.1.exe"
@@ -5712,7 +6008,7 @@
         "state": "uploaded",
         "size": 284,
         "digest": "sha256:59eaa95d463684b6381267cbb695e8fbb7be2085a86154cbbe043404ec644a34",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:43Z",
         "updated_at": "2026-09-04T16:11:43Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.4.2/checksums-sha256.txt"
@@ -5748,7 +6044,7 @@
         "state": "uploaded",
         "size": 135779678,
         "digest": "sha256:1a0e61ac2759463530af5981460383038bfc611c2d8a8ffa6c96169878e33bb7",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-09-04T16:11:43Z",
         "updated_at": "2026-09-04T16:11:47Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.4.2/DraconDex-4.4.2-win-x64.zip"
@@ -5784,7 +6080,7 @@
         "state": "uploaded",
         "size": 86939818,
         "digest": "sha256:560b541d603730d469ceeb118cbe9d40f2506cc29f469ebbad298d5de44bdcb3",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:43Z",
         "updated_at": "2026-09-04T16:11:45Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.4.2/DraconDex-Portable-4.4.2.exe"
@@ -5820,7 +6116,7 @@
         "state": "uploaded",
         "size": 96419927,
         "digest": "sha256:618afb11300d9112039a96b40de173bb5137fe1aa653fdd9ad21b832f8b201c2",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:11:42Z",
         "updated_at": "2026-09-04T16:11:46Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/v4.4.2/DraconDex-Setup-4.4.2.exe"
@@ -5900,7 +6196,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:d0000383e037d4828230026393b931325912a3541acdc3ef5cd4ff2f4a8a73fc",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:57Z",
         "updated_at": "2026-09-04T16:12:57Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.9.0/checksums-sha256.txt"
@@ -5936,7 +6232,7 @@
         "state": "uploaded",
         "size": 27856816,
         "digest": "sha256:6243850bacc9d984d22603c0d41ad1dd216a09a47287af52a957fad757965edb",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:57Z",
         "updated_at": "2026-09-04T16:12:58Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.9.0/DraconDex-2.9.0-arm64-v8a-release.apk"
@@ -5972,7 +6268,7 @@
         "state": "uploaded",
         "size": 25462518,
         "digest": "sha256:994d05722045e50ba364d267fcaa0b06b7ca26577f08495a9fad5f1e6e57be61",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:57Z",
         "updated_at": "2026-09-04T16:12:58Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.9.0/DraconDex-2.9.0-armeabi-v7a-release.apk"
@@ -6008,7 +6304,7 @@
         "state": "uploaded",
         "size": 68286843,
         "digest": "sha256:549047af45da412de302153b8a341c7fda523a01e063969305bc7dd391e7b7f4",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:57Z",
         "updated_at": "2026-09-04T16:12:59Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.9.0/DraconDex-2.9.0-release.apk"
@@ -6044,7 +6340,7 @@
         "state": "uploaded",
         "size": 29292161,
         "digest": "sha256:9a58d00828b6be11ca1316a2fccead9131effbfc3661c296007e0a876350fe00",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:57Z",
         "updated_at": "2026-09-04T16:12:58Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.9.0/DraconDex-2.9.0-x86_64-release.apk"
@@ -6124,7 +6420,7 @@
         "state": "uploaded",
         "size": 405,
         "digest": "sha256:0831ad6b57631c2815e0171058b947282b545b2e810b565a8fdaee343d6d5ed3",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:47Z",
         "updated_at": "2026-09-04T16:12:47Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.8.1/checksums-sha256.txt"
@@ -6196,7 +6492,7 @@
         "state": "uploaded",
         "size": 25575215,
         "digest": "sha256:e39d1eb3cb87f9afcb3d4d57471a395d8d02c17cc774c901cf3f9e50fb0179d4",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:47Z",
         "updated_at": "2026-09-04T16:12:48Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.8.1/DraconDex-2.8.1-armeabi-v7a-release.apk"
@@ -6232,7 +6528,7 @@
         "state": "uploaded",
         "size": 68071860,
         "digest": "sha256:a661add82c5dfd4cc36adbb629e0304d13f925049263f7afdd89813a00500ae2",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:47Z",
         "updated_at": "2026-09-04T16:12:49Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.8.1/DraconDex-2.8.1-release.apk"
@@ -6268,7 +6564,7 @@
         "state": "uploaded",
         "size": 29388470,
         "digest": "sha256:c73dba0511fba7e8eb10d4b464fb06bb96428d0f91cdb8c205cc75d1504d0581",
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2026-09-04T16:12:47Z",
         "updated_at": "2026-09-04T16:12:49Z",
         "browser_download_url": "https://github.com/ZYDRAXYL/DraconDex-WEB/releases/download/flutter-v2.8.1/DraconDex-2.8.1-x86_64-release.apk"
